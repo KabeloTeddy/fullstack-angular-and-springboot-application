@@ -6,6 +6,12 @@ Welcome to my E-Commerce Fullstack Application!
 
 This repository hosts the first version (v1) of my e-commerce application, built using modern development tools and technologies. My goal is to create a robust and feature-rich platform for online shopping. While this initial version showcases the core functionality, I have exciting plans for future releases. This is the backend,
 
+Important Note:
+
+Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. 
+
+
+
 Key Features (v1):
 
 Frontend: I developed the frontend with Angular and TypeScript, providing an intuitive and responsive user interface. Features include product browsing, a shopping cart, pagination, routing, and validation.
@@ -16,9 +22,7 @@ Database: MySQL serves as my database, storing product data, customer informatio
 
 Checkout and Purchase: Customers can add products to their cart, provide shipping and billing details, and complete their purchase. A unique order tracking number is generated for each transaction.
 
-Important Note:
 
-Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. 
 
 Expose all URL's:
 localhost:8080/api/products,
