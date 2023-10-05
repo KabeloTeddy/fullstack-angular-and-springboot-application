@@ -1,10 +1,10 @@
-# fullstack-angular-and-springboot-application
+# fullstack-angular-and-springboot-application (Backend)
 
 Project Description:
 
 Welcome to my E-Commerce Fullstack Application!
 
-This repository hosts the first version (v1) of my e-commerce application, built using modern development tools and technologies. My goal is to create a robust and feature-rich platform for online shopping. While this initial version showcases the core functionality, I have exciting plans for future releases.
+This repository hosts the first version (v1) of my e-commerce application, built using modern development tools and technologies. My goal is to create a robust and feature-rich platform for online shopping. While this initial version showcases the core functionality, I have exciting plans for future releases. This is the backend,
 
 Key Features (v1):
 
@@ -18,7 +18,14 @@ Checkout and Purchase: Customers can add products to their cart, provide shippin
 
 Important Note:
 
-Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. Detailed instructions for running these scripts can be found in the project's documentation.
+Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. 
+
+Expose all URL's:
+localhost:8080/api/products,
+http://localhost:8080/api/countries,
+http://localhost:8080/api/customers
+http://localhost:8080/api/product-category,
+
 
 Prerequisites:
 
