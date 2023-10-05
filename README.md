@@ -8,7 +8,7 @@ This repository hosts the first version (v1) of my e-commerce application, built
 
 Important Note:
 
-Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. 
+Before running the application, please ensure that you've executed all the necessary SQL database scripts provided in the project. These scripts are essential for initializing the database and ensuring that the application functions correctly. ALL THIS IS FONT ON THE (01-starter-files) 
 
 
 
